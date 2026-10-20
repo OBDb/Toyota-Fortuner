@@ -1,0 +1,20 @@
+command_id: 7C0.7C8.2123
+test_cases:
+- expected_values:
+    FORTUNER_COOLANT_T: 0
+  response: 7C803612300
+- expected_values:
+    FORTUNER_COOLANT_T: 83
+  response: 7C8036123A6
+- expected_values:
+    FORTUNER_COOLANT_T: 83.5
+  response: 7C8036123A7
+- expected_values:
+    FORTUNER_COOLANT_T: 84
+  response: 7C8036123A8
+- expected_values:
+    FORTUNER_COOLANT_T: 85
+  response: 7C8036123AA
+- expected_values:
+    FORTUNER_COOLANT_T: 85.5
+  response: 7C8036123AB

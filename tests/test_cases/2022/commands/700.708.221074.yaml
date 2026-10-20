@@ -1,0 +1,14 @@
+command_id: 700.708.221074
+test_cases:
+- expected_values:
+    FORTUNER_EOP: 126.09375
+  response: 70805621074064E
+- expected_values:
+    FORTUNER_EOP: 139.53125
+  response: 7080562107406FA
+- expected_values:
+    FORTUNER_EOP: 321.09375
+  response: 70805621074100E
+- expected_values:
+    FORTUNER_EOP: 461.48438
+  response: '708056210741713'

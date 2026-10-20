@@ -1,0 +1,32 @@
+command_id: 700.708.221627
+test_cases:
+- expected_values:
+    FORTUNER_ATF_T_PAN_V3: 65.625
+  response: 7080562162769A0
+- expected_values:
+    FORTUNER_ATF_T_PAN_V3: 66.25
+  response: 708056216276A40
+- expected_values:
+    FORTUNER_ATF_T_PAN_V3: 75
+  response: '708056216277300'
+- expected_values:
+    FORTUNER_ATF_T_PAN_V3: 75.625
+  response: 7080562162773A0
+- expected_values:
+    FORTUNER_ATF_T_PAN_V3: 79.375
+  response: '708056216277760'
+- expected_values:
+    FORTUNER_ATF_T_PAN_V3: 80
+  response: '708056216277800'
+- expected_values:
+    FORTUNER_ATF_T_PAN_V3: 80.625
+  response: 7080562162778A0
+- expected_values:
+    FORTUNER_ATF_T_PAN_V3: 81.25
+  response: '708056216277940'
+- expected_values:
+    FORTUNER_ATF_T_PAN_V3: 82.5
+  response: 708056216277A80
+- expected_values:
+    FORTUNER_ATF_T_PAN_V3: 83.125
+  response: 708056216277B20

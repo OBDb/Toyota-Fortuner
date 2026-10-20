@@ -1,0 +1,17 @@
+command_id: 7B0.7B8.221006
+test_cases:
+- expected_values:
+    FORTUNER_MASTER_CYL_TEMP: 35
+  response: 7B8056210067300
+- expected_values:
+    FORTUNER_MASTER_CYL_TEMP: 36
+  response: 7B8056210067400
+- expected_values:
+    FORTUNER_MASTER_CYL_TEMP: 43
+  response: 7B8056210067B00
+- expected_values:
+    FORTUNER_MASTER_CYL_TEMP: 44
+  response: 7B8056210067C00
+- expected_values:
+    FORTUNER_MASTER_CYL_TEMP: 45
+  response: 7B8056210067D00
