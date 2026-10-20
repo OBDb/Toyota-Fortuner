@@ -1,0 +1,23 @@
+command_id: 700.708.221F46
+test_cases:
+- expected_values:
+    FORTUNER_AMBIENT_T_700: 32
+  response: 70804621F4648
+- expected_values:
+    FORTUNER_AMBIENT_T_700: 33
+  response: 70804621F4649
+- expected_values:
+    FORTUNER_AMBIENT_T_700: 34
+  response: 70804621F464A
+- expected_values:
+    FORTUNER_AMBIENT_T_700: 44
+  response: 70804621F4654
+- expected_values:
+    FORTUNER_AMBIENT_T_700: 45
+  response: 70804621F4655
+- expected_values:
+    FORTUNER_AMBIENT_T_700: 46
+  response: 70804621F4656
+- expected_values:
+    FORTUNER_AMBIENT_T_700: 47
+  response: 70804621F4657

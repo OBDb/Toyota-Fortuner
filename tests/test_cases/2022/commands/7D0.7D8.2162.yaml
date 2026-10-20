@@ -1,0 +1,32 @@
+command_id: 7D0.7D8.2162
+test_cases:
+- expected_values:
+    FORTUNER_PARKING_BRAKE_2: 0
+  response: 7D8056162010000
+- expected_values:
+    FORTUNER_PARKING_BRAKE_2: 0
+  response: 7D8056162015C00
+- expected_values:
+    FORTUNER_PARKING_BRAKE_2: 0
+  response: 7D8056162016300
+- expected_values:
+    FORTUNER_PARKING_BRAKE_2: 0
+  response: 7D8056162016500
+- expected_values:
+    FORTUNER_PARKING_BRAKE_2: 0
+  response: 7D8056162017100
+- expected_values:
+    FORTUNER_PARKING_BRAKE_2: 0
+  response: 7D8056162017300
+- expected_values:
+    FORTUNER_PARKING_BRAKE_2: 0
+  response: 7D8056162017500
+- expected_values:
+    FORTUNER_PARKING_BRAKE_2: 0
+  response: 7D8056162017C00
+- expected_values:
+    FORTUNER_PARKING_BRAKE_2: 0
+  response: 7D8056162017D00
+- expected_values:
+    FORTUNER_PARKING_BRAKE_2: 0
+  response: 7D8056162190000

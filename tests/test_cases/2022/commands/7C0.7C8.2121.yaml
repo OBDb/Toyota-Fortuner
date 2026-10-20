@@ -1,0 +1,26 @@
+command_id: 7C0.7C8.2121
+test_cases:
+- expected_values:
+    FORTUNER_VSS_7C0: 0
+  response: 7C803612100
+- expected_values:
+    FORTUNER_VSS_7C0: 91
+  response: 7C80361215B
+- expected_values:
+    FORTUNER_VSS_7C0: 96
+  response: 7C803612160
+- expected_values:
+    FORTUNER_VSS_7C0: 98
+  response: 7C803612162
+- expected_values:
+    FORTUNER_VSS_7C0: 99
+  response: 7C803612163
+- expected_values:
+    FORTUNER_VSS_7C0: 113
+  response: 7C803612171
+- expected_values:
+    FORTUNER_VSS_7C0: 116
+  response: 7C803612174
+- expected_values:
+    FORTUNER_VSS_7C0: 123
+  response: 7C80361217B

@@ -1,0 +1,14 @@
+command_id: 700.708.221041
+test_cases:
+- expected_values:
+    FORTUNER_ECT_IGN: 28.125
+    FORTUNER_ECT_INIT: 28.125
+  response: 708056210416D6D
+- expected_values:
+    FORTUNER_ECT_IGN: 81.25
+    FORTUNER_ECT_INIT: 81.25
+  response: 70805621041C2C2
+- expected_values:
+    FORTUNER_ECT_IGN: 84.375
+    FORTUNER_ECT_INIT: 84.375
+  response: 70805621041C7C7

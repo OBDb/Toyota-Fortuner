@@ -1,0 +1,8 @@
+command_id: 700.708.22106C
+test_cases:
+- expected_values:
+    FORTUNER_12V_DISCONNECT_ODO: 12085
+  response: 7080562106C2F35
+- expected_values:
+    FORTUNER_12V_DISCONNECT_ODO: 14263
+  response: 7080562106C37B7

@@ -1,0 +1,9 @@
+command_id: 7C0.7C8.2112
+test_cases:
+- expected_values:
+    FORTUNER_CHECK_ENGINE: 0
+    FORTUNER_P_SEATBELT_BUCKLE: 0
+    FORTUNER_TAIL_CANCEL: 0
+  response: |-
+    7C8100A611200000000
+    7C82100000080000000

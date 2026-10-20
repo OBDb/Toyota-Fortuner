@@ -1,0 +1,26 @@
+command_id: 7C0.7C8.2129
+test_cases:
+- expected_values:
+    FORTUNER_FLI_VOL: 8.45443
+  response: 7C803612940
+- expected_values:
+    FORTUNER_FLI_VOL: 10.03963
+  response: 7C80361294C
+- expected_values:
+    FORTUNER_FLI_VOL: 10.17173
+  response: 7C80361294D
+- expected_values:
+    FORTUNER_FLI_VOL: 10.30383
+  response: 7C80361294E
+- expected_values:
+    FORTUNER_FLI_VOL: 10.43593
+  response: 7C80361294F
+- expected_values:
+    FORTUNER_FLI_VOL: 10.56803
+  response: 7C803612950
+- expected_values:
+    FORTUNER_FLI_VOL: 11.22853
+  response: 7C803612955
+- expected_values:
+    FORTUNER_FLI_VOL: 17.96565
+  response: 7C803612988

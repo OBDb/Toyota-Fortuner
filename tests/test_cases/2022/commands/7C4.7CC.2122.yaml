@@ -1,0 +1,17 @@
+command_id: 7C4.7CC.2122
+test_cases:
+- expected_values:
+    FORTUNER_AAT: 30.25
+  response: 7CC03612299
+- expected_values:
+    FORTUNER_AAT: 31.65
+  response: 7CC0361229D
+- expected_values:
+    FORTUNER_AAT: 32
+  response: 7CC0361229E
+- expected_values:
+    FORTUNER_AAT: 32.35
+  response: 7CC0361229F
+- expected_values:
+    FORTUNER_AAT: 34.1
+  response: 7CC036122A4
